@@ -1,0 +1,18 @@
+Assignment #1
+ElementFinder
+
+create a class to find an element in a list or set, the class should have four methods
+
+T findFirst(List/Set data)
+find the first element in the list/set based on comparable
+
+T findFirst(List/Set data, Comparator comparator)
+find the first element in the list/set based on the passed comparable argument
+
+T findLast(List/Set data)
+find the last element in the list/set based on comparable
+
+T findLast(List/Set data, Comparator comparator)
+find the last element in the list/set based on the passed comparable argument
+
+If you can't deal with generics (T), Use any type of object like User
