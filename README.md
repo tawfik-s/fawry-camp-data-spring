@@ -37,10 +37,11 @@ onsite intern in amazing branch at smart village
 ### Tasks
 
 - [Product Catalog API Requirements](./Tasks-solution/week3Task_spring_api/Task/ProductCatalogRequirements.md)
+
+
 <!-- 
 ## pluralsight material videos for all weeks
 
-<!-- table  -->
 
 | Course                                                          | Duration | Link                                                                                               |
 | --------------------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------- |
@@ -61,5 +62,4 @@ onsite intern in amazing branch at smart village
 | Getting Started with Git                                        | 4 Hr     | https://app.pluralsight.com/library/courses/getting-started-git/table-of-contents                  |
 | Unit Testing                                                    | 4 Hr     | https://app.pluralsight.com/library/courses/junit-5-unit-testing-getting-started/table-of-contents |
 | Unit Testing 2                                                  | 4 Hr     | https://app.pluralsight.com/library/courses/mockito-getting-started/table-of-contents              |
-
-<!-- finish --> -->
+-->
