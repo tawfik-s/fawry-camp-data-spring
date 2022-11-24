@@ -10,10 +10,12 @@ onsite trainning in amazing branch at smart village
 
 ### material
 
+- [~~java collection API session engineer hany Ahmed~~]()
 - [java8 session by engineer samir ghonim part1](https://drive.google.com/file/d/1yF9nM_oNfC0PRcmZaurEwN7buzfY-DCJ/view)
 - [java8 session by engineer samir ghonim part2](https://drive.google.com/file/d/1TSNYwibhM0NQQ4c5F9zt6ZBXmpROh8fR/view)
 - [java 8 session material](./session-coding%20material/java8%20session/Java8.java)
 - [java collections coding example](./session-coding%20material/java%20collections%20session/Main.java)
+- [clean code and java naming conventions pdf](https://drive.google.com/drive/folders/1cE6kRUFEJNFW1ir52WlTk_dI6Uq2ql5J?usp=sharing)
 
 ### tasks
 
@@ -25,6 +27,7 @@ onsite trainning in amazing branch at smart village
 
 ### material
 
+- [REST api design pdf](https://drive.google.com/file/d/1wQ-d_vUxXCczn9cvzfvIf3kTK0DpUsea/view)
 - [spring boot session](https://drive.google.com/file/d/1JCXjtnjmmaV9JbCF-riibH8YP1Efj1tU/view?pli=1)
 - [liquibase database migration engineer hany ahmed](https://drive.google.com/file/d/1uhBjoU4pYryrK2op7oA8hmHeZ61X9lwg/view)
 - [liquibase intro pdf](https://drive.google.com/file/d/1LK8-t6X18lq0LcsATf9Ff1is3qAunlS2/view)
