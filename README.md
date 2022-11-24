@@ -1,6 +1,10 @@
 # fawry-camp-data
 
-fawry java &amp;&amp; angular camp data and road map
+### fawry java backend &amp;&amp; angular camp data and road map
+
+onsite trainning in amazing branch at smart village
+
+![building image](./images/build.jpeg)
 
 ## first week start with java, java8 and java collections
 
