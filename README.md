@@ -25,6 +25,7 @@ fawry java &amp;&amp; angular camp data and road map
 - [liquibase database migration engineer hany ahmed](https://drive.google.com/file/d/1uhBjoU4pYryrK2op7oA8hmHeZ61X9lwg/view)
 - [liquibase intro pdf](https://drive.google.com/file/d/1LK8-t6X18lq0LcsATf9Ff1is3qAunlS2/view)
 - [design principles engineer hany ahmed](https://drive.google.com/file/d/1bRu1YKcE4kvwa7j5rI1tIXvGfTxWwJ54/view)
+- [spring boot security article](https://www.javainuse.com/spring/boot-jwt)
 
 ### Tasks
 
