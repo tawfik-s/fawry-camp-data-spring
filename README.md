@@ -39,3 +39,11 @@ onsite intern in amazing branch at smart village
 ### Tasks
 
 - [Product Catalog API Requirements](./Tasks-solution/week3Task_spring_api/Task/ProductCatalogRequirements.md)
+
+## fifth week angular and typescript
+
+### material
+
+- [decorator examples](./session-coding%20material/decorator/)
+
+### Tasks
