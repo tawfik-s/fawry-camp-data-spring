@@ -6,6 +6,8 @@ onsite intern in amazing branch at smart village
 
 ![building image](./images/build.jpeg)
 
+#
+
 ## first week start with java, java8 and java collections
 
 ### material
@@ -22,6 +24,8 @@ onsite intern in amazing branch at smart village
 - [element finder task about collections engineer hany ahmed](./Tasks-solution/week1Tasks/Tasks/elementFinder.txt)
 - [Lambda java8 features task engineer samir ghonim](./Tasks-solution/week1Tasks/Tasks/LambdaExample.java)
 - [Streams java8 features task engineer samir ghonim](./Tasks-solution/week1Tasks/Tasks/StreamsExample.java)
+
+#
 
 ## second, third week and fourth week spring core and spring boot
 
@@ -40,10 +44,48 @@ onsite intern in amazing branch at smart village
 
 - [Product Catalog API Requirements](./Tasks-solution/week3Task_spring_api/Task/ProductCatalogRequirements.md)
 
+#
+
 ## fifth week angular and typescript
 
 ### material
 
 - [decorator examples](./session-coding%20material/decorator/)
+- [Angular course](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
 
 ### Tasks
+
+- write Angular front end for product catalog api
+
+#
+
+## final two weeks last project food order backend and front end
+
+## Requirements
+
+you would be responsible for building a food ordering app that may be used in a company or by a group of people to collect an order to a restaurant
+
+the functions (stories) of the new app should be as follow:
+
+1. create group (by group owner)
+2. list groups
+3. join group
+4. approve join request
+5. order food
+6. view orders summary categorized per item
+7. view orders summary categorized per user
+8. finish (group owner)
+
+Please have a discussion together about
+
+1. How to build this app
+2. Think with details about how to implement every feature (this may need to add more features)
+3. Decide about the technology stack, db type, frameworks, libraries that may be used
+4. Agree on a database design
+
+#
+
+### source code
+
+- backend repo [link](https://github.com/tawfik-s/team-food-ordering-app)
+- frontend repo [link](https://github.com/emostafa866/food-order-UI)
