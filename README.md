@@ -6,8 +6,6 @@ onsite intern in amazing branch at smart village
 
 ![building image](./images/build.jpeg)
 
-#
-
 ## first week start with java, java8 and java collections
 
 ### material
@@ -24,8 +22,6 @@ onsite intern in amazing branch at smart village
 - [element finder task about collections engineer hany ahmed](./Tasks-solution/week1Tasks/Tasks/elementFinder.txt)
 - [Lambda java8 features task engineer samir ghonim](./Tasks-solution/week1Tasks/Tasks/LambdaExample.java)
 - [Streams java8 features task engineer samir ghonim](./Tasks-solution/week1Tasks/Tasks/StreamsExample.java)
-
-#
 
 ## second, third week and fourth week spring core and spring boot
 
@@ -44,8 +40,6 @@ onsite intern in amazing branch at smart village
 
 - [Product Catalog API Requirements](./Tasks-solution/week3Task_spring_api/Task/ProductCatalogRequirements.md)
 
-#
-
 ## fifth week angular and typescript
 
 ### material
@@ -56,8 +50,6 @@ onsite intern in amazing branch at smart village
 ### Tasks
 
 - write Angular front end for product catalog api
-
-#
 
 ## final two weeks last project food order backend and front end
 
@@ -82,8 +74,6 @@ Please have a discussion together about
 2. Think with details about how to implement every feature (this may need to add more features)
 3. Decide about the technology stack, db type, frameworks, libraries that may be used
 4. Agree on a database design
-
-#
 
 ### source code
 
