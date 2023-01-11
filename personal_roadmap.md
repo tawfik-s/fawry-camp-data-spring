@@ -6,7 +6,8 @@
 - Exception Handling.
 - Multithreading.
 - Collections(List,Set,Map, ... )
-- JDBC 6. It is better to be familir with #java8 features stream and lambda expressions
+- JDBC 
+- It is better to be familir with #java8 features stream and lambda expressions
 
 ### DBMS
 
@@ -20,6 +21,7 @@
 
 - Servlets
 - JSP
+- filters
 
 ### Hibernate
 
