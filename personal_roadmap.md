@@ -9,13 +9,6 @@
 - JDBC 
 - It is better to be familir with #java8 features stream and lambda expressions
 
-### DBMS
-
-- Data modeling
-- Relational data Model
-- Normalization
-- Transaction Processing
-- Concurrency Control
 
 ### Java EE
 
