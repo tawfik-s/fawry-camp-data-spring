@@ -8,6 +8,7 @@
 - Collections(List,Set,Map, ... )
 - JDBC 
 - It is better to be familir with #java8 features stream and lambda expressions
+- unit testing with JUnit
 
 
 ### Java EE
@@ -27,7 +28,9 @@
 
 - Spring Core
 - Spring Data
-- Spring MVC
-- Spring RESTful API
+- spring AOP
 - Spring Boot
+- Spring RESTful API
+- Spring MVC
+- Spring Integration Test
 - Spring Security
