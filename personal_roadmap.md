@@ -32,5 +32,5 @@
 - Spring Boot
 - Spring RESTful API
 - Spring MVC
-- Spring Integration Test
+- Spring Unit Test (test the service layer) 
 - Spring Security
