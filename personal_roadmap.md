@@ -9,7 +9,7 @@
 - JDBC 
 - It is better to be familir with #java8 features stream and lambda expressions
 - unit testing with JUnit
-
+- maven
 
 ### Java EE
 
