@@ -10,7 +10,7 @@
   - [nice to learn OOD](https://youtu.be/xlYMFRQEHYA?list=PLVfulEzLnv-PDQ9zTWDhOVsaU7gLRgCQy)
 - Exception Handling.
   - [javatpoint](https://www.javatpoint.com/exception-handling-in-java)
-  - [Adel Nasim videos 64 to 66](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN)
+  - [Adel Nasim videos 64 to 66⭐](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN)
   - [FCI-Career-Build from 30 to 33](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mZ-5ziYzaoK1leOLYHpqPXJ)
 - Multithreading.
   - [javatpoint](https://www.javatpoint.com/multithreading-in-java)
@@ -47,7 +47,10 @@
 - filters
 
 ## Hibernate
-
+- [Hibernate User Guide](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html)
+- [javatpoint](https://www.javatpoint.com/hibernate-tutorial)
+- [Miss Xing Course🌟](https://www.youtube.com/playlist?list=PLGTrAf5-F1YLNgq_0TXd9Xu245dJxqJMr)
+- [Java Brains](https://www.youtube.com/playlist?list=PL4AFF701184976B25)
 ## Web Service
 
 - RESTful API (The Most popular With Spring)
