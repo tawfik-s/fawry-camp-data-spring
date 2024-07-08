@@ -54,6 +54,8 @@
 ## Web Service
 
 - RESTful API (The Most popular With Spring)
+  - [freeCodeCamp Article](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
+  - [Mohamed Taman lecture Effective Design of RESTful APIs](https://www.youtube.com/watch?v=ROVI2G8eH78)
 - It is better to be familiar with SOAP Web Service
 
 ## Spring
