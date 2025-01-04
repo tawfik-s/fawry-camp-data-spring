@@ -68,4 +68,4 @@
 - Spring MVC
 - Spring Unit Test (test the service layer)
 - Spring Security
-  - [Amazing tasks to master spring security with it's solution Create by me](https://github.com/tawfik-s/Spring-Security-Tasks-Solution)
+  - [Amazing tasks to master spring security with it's solutions Created by me](https://github.com/tawfik-s/Spring-Security-Tasks-Solution)
