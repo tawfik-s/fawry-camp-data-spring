@@ -1,4 +1,4 @@
-# my java backend road map
+# Java backend Roadmap 🥷
 
 >**"The only way to learn a new programming language is by writing programs in it."**
 
@@ -39,6 +39,7 @@
   - [Baeldung](https://www.baeldung.com/maven)
   - [Intellij IDEA maven support](https://www.jetbrains.com/help/idea/maven-support.html#Maven_Support.topic)
   - [Java Brains](https://www.youtube.com/playlist?list=PL92E89440B7BFD0F6)
+- Solve some problems to get your hands dirty with Java, solve LeetCode easy problems, or CodeWars.
 
 ## Java EE
 
@@ -76,3 +77,10 @@ Some recommended spring courses and channels
 - [free codecamp](https://www.youtube.com/watch?v=5rNk7m_zlAg)
 - [free codecamp](https://www.youtube.com/watch?v=oGhc5Z-WJSw)
 - [laurspilca](https://www.youtube.com/@laurspilca/playlists)
+
+You can rewrite these two services and enhance the code.
+[simple one](https://github.com/tawfik-s/askme-api-spring)
+[advanced one](https://github.com/tawfik-s/scorely-api)
+
+## some recommended articles
+[garbage collectors](https://medium.com/@t.shalash1/jvm-garbage-collectors-82675b9e9bdb)
