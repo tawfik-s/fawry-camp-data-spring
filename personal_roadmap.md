@@ -69,3 +69,10 @@
 - Spring Unit Test (test the service layer)
 - Spring Security
   - [Amazing tasks to master spring security with it's solutions Created by me](https://github.com/tawfik-s/Spring-Security-Tasks-Solution)
+
+Some recommended spring courses and channels
+- [highly recommend resouce Miss Xing channel](https://www.youtube.com/@MissXing/playlists)
+- [nour shaheen](https://www.youtube.com/playlist?list=PLMkr7X9JBPp4OlZCl0dzk8nXVb3Qygmeo)
+- [free codecamp](https://www.youtube.com/watch?v=5rNk7m_zlAg)
+- [free codecamp](https://www.youtube.com/watch?v=oGhc5Z-WJSw)
+- [laurspilca](https://www.youtube.com/@laurspilca/playlists)
