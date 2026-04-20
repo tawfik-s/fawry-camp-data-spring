@@ -39,8 +39,6 @@
   - [Baeldung](https://www.baeldung.com/maven)
   - [Intellij IDEA maven support](https://www.jetbrains.com/help/idea/maven-support.html#Maven_Support.topic)
   - [Java Brains](https://www.youtube.com/playlist?list=PL92E89440B7BFD0F6)
-- Solve some problems to get your hands dirty with Java, solve LeetCode easy problems, or CodeWars.
-
 ## Java EE
 
 - Servlets
